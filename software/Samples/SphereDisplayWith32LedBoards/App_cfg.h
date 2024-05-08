@@ -1,0 +1,14 @@
+#ifndef APP_CFG_H
+#define APP_CFG_H
+
+//#define NUM_OF_NEOPIXELS 180
+#define NUM_OF_NEOPIXELS 32
+
+#define BRIGHTNESS 40
+
+#define USE_COMMAND_INTERFACE
+#define USE_SERIAL_TO_RECV_COMMAND
+#define USE_MQTT_TO_RECV_COMMAND
+
+
+#endif // APP_CFG_H
